@@ -16,6 +16,7 @@ public:
     {
         cout << "pekerja dibuat\n" << endl;
     }
+
 };
 
 class pelajar : public orang {
